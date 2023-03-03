@@ -6,7 +6,7 @@
 - 👨‍💻 Futura Dev
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast"
+  srcset="https://github-readme-stats.vercel.app/api?username=starklocs&show_icons=true&theme=highcontrast"
   media="(prefers-color-scheme: dark)"
 />
 <source
