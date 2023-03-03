@@ -29,4 +29,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=starklocs&show_icons=true" />
 </picture>
 
-![Snake animation](https://github.com/starklocs/Laura-Oliveira/blob/outpot/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/starklocs/laura-oliveira/blob/outpot/github-contribution-grid-snake.svg)
