@@ -1,4 +1,4 @@
-# Olá tudo bem!? Sou Laura Olivei
+# Olá tudo bem!? Sou Laura Oliveira
 
 - 🔭 Atualmente estou trabalhando como Analista de Suporte Jr.
 - 🌱 Atualmente estou aprendendo: Python e Java.
@@ -29,4 +29,4 @@
 <img src="https://github-readme-stats.vercel.app/api?username=starklocs&show_icons=true" />
 </picture>
 
-![Snake animation](https://github.com/starklocs/laura-oliveira/blob/outpot/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/starklocs/Laura-Oliveira/blob/outpot/github-contribution-grid-snake.svg)
